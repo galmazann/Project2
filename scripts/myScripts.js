@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fortunes = [
         "You will have a great day!",
         "An exciting opportunity is on the horizon.",
-        "Good things are coming your way.",
+        "Good things are coming your way be patient.",
         "You will find a hidden talent.",
         "Expect positive changes in your life.",
         "A pleasant surprise is waiting for you.",
